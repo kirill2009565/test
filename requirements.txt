@@ -2,3 +2,4 @@ pyTelegramBotAPI==4.10.0
 schedule
 python-dotenv
 sqlite3
+s-taper
